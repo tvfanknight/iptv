@@ -3,4 +3,4 @@
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/300.m3u8
 
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",BBC World News
-http://www.juhe.ml/wt/live.m3u8?id=bbcworldnews&auth=e0147821e85e8d78329a8d8726e8dc8187f7a6cb38e6eccdf7323e0d39e76f126c473faa9c9b52f3d97faf4caf3294fa
+http://62.210.107.171:8080/c12e44d57e359ef3d1c5c10e5db07e032689fc1f34c3c330619e4a79db4b96a8/hls/familguys4f.m3u8
