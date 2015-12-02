@@ -1,3 +1,6 @@
 #EXTM3U tvg-shift=1
 #EXTINF:-1 tvg-id="id1" tvg-name="Channel_1" tvg-logo="1" group-title="Group 1",Al Jazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/300.m3u8
+
+#EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",BBC World News
+http://www.juhe.ml/wt/live.m3u8?id=bbcworldnews&auth=e0147821e85e8d78329a8d8726e8dc8187f7a6cb38e6eccdf7323e0d39e76f126c473faa9c9b52f3d97faf4caf3294fa
