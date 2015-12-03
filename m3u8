@@ -5,4 +5,9 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/300.
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",BBC World News
 http://live.tutvgratis.tv/ch/96.m3u8?token=wX9ToUMolfvTC8enN5Hwk5luIA3U2T+i1VuV19tb8tD4XXbSEzO6NdPvlp2IP5jG67grhSDUgVx7GeG1a3VBlWOTvInnBDnd7IizQq8vbfL/U6TTLieMTyIKQpajgHVX+LJveWhXyXAmJsDsdTVn5QypUuOMOc3ptTyuByWNNnY=|tmEiDjsf1ovei5Qfpran52plup8R37jbJI1YwNOXP5g=.m3u8
 
+#EXTINF:-1 tvg-id="id3" tvg-name="Channel_3" tvg-logo="3" group-title="Group 1",CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_264.m3u8
+
+#EXTINF:-1 tvg-id="id4" tvg-name="Channel_4" tvg-logo="4" group-title="Group 1",RT News
+http://rt-lh.akamaihd.net/i/ch_01@325605/index_320p_av-p.m3u8?sd=10&rebase=on
 
