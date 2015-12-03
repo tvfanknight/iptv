@@ -3,5 +3,6 @@
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/300.m3u8
 
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",BBC World News
-rtmp://$OPT:rtmp-raw=rtmp://50.7.78.138:443/live?W74Mz42xBeCbY938vaGFDdTACX7Va4Tq playpath=live_mdufres2 swfUrl=http://vaughnlive.tv/4346565432/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/mdufres2
+http://live.tutvgratis.tv/ch/96.m3u8?token=wX9ToUMolfvTC8enN5Hwk5luIA3U2T+i1VuV19tb8tD4XXbSEzO6NdPvlp2IP5jG67grhSDUgVx7GeG1a3VBlWOTvInnBDnd7IizQq8vbfL/U6TTLieMTyIKQpajgHVX+LJveWhXyXAmJsDsdTVn5QypUuOMOc3ptTyuByWNNnY=|tmEiDjsf1ovei5Qfpran52plup8R37jbJI1YwNOXP5g=.m3u8
+
 
