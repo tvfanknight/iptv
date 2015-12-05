@@ -3,7 +3,7 @@
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/300.m3u8
 
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",WGN9
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-b.m3u8?sd=10&rebase=on
+http://192.168.0.100:8080
 
 #EXTINF:-1 tvg-id="id3" tvg-name="Channel_3" tvg-logo="3" group-title="Group 1",CNN
 http://edge1.everyon.tv/etv1sb/pld16/chunklist_w2021649583.m3u8
