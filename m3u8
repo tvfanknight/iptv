@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="id1" tvg-name="Channel_1" tvg-logo="1" group-title="Group 1",Al Jazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/300.m3u8
 
-#EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",WGN9
+#EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",Test
 http://192.168.0.100:8080
 
 #EXTINF:-1 tvg-id="id3" tvg-name="Channel_3" tvg-logo="3" group-title="Group 1",CNN
