@@ -17,6 +17,9 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/1/playlist.
 #EXTINF:-1 tvg-id="id76" tvg-name="Channel_76" tvg-logo="76" group-title="Group 1",Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_all.smil/chunklist_b475136.m3u8
 
+#EXTINF:-1 tvg-id="id91" tvg-name="Channel_91" tvg-logo="91" group-title="Group 1",Bt Sports 2
+rtmp://94.102.49.193/live playpath=ttbt2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ttbt2&vw=620&vh=490
+
 #EXTINF:-1 tvg-id="id92" tvg-name="Channel_92" tvg-logo="92" group-title="Group 1",Sky Sports 1
 rtmp://89.248.172.239/live playpath=ttskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php 
 
