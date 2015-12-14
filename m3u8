@@ -17,9 +17,19 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/1/playlist.
 #EXTINF:-1 tvg-id="id76" tvg-name="Channel_76" tvg-logo="76" group-title="Group 1",Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_all.smil/chunklist_b475136.m3u8
 
-#EXTINF:-1 tvg-id="id99" tvg-name="Channel_99" tvg-logo="99" group-title="Group 1",Sky Sports 3
-rtmp://80.82.78.21/live playpath=mss3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php
+#EXTINF:-1 tvg-id="id92" tvg-name="Channel_92" tvg-logo="92" group-title="Group 1",Sky Sports 1
+rtmp://89.248.172.239/live playpath=ttskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php 
 
+#EXTINF:-1 tvg-id="id93" tvg-name="Channel_93" tvg-logo="93" group-title="Group 1",Sky Sports 2
+rtmp://80.82.64.46/live playpath=ttskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php 
 
+#EXTINF:-1 tvg-id="id94" tvg-name="Channel_94" tvg-logo="94" group-title="Group 1",Sky Sports 3
+rtmp://80.82.78.29/live playpath=ttskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php 
+
+#EXTINF:-1 tvg-id="id95" tvg-name="Channel_95" tvg-logo="95" group-title="Group 1",Sky Sports 4
+rtmp://89.248.162.148/live playpath=ttskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php 
+
+#EXTINF:-1 tvg-id="id96" tvg-name="Channel_96" tvg-logo="96" group-title="Group 1",Sky Sports 5
+rtmp://80.82.64.117/live playpath=ttskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php
 
 
