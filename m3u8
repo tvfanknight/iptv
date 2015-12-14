@@ -3,7 +3,6 @@
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/300.m3u8
 
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",BBC World News
-http://www.juhe.ml/wt/live.m3u8?id=bbcworldnews&auth=e0147821e85e8d78329a8d8726e8dc816a7fafbb29386bc840e7d96683e2570ce547b754fdc1ae41b4ef5d9e83fac511
 
 #EXTINF:-1 tvg-id="id3" tvg-name="Channel_3" tvg-logo="3" group-title="Group 1",CNN
 http://edge1.everyon.tv/etv1sb/pld16/chunklist_w2021649583.m3u8
