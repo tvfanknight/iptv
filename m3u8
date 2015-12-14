@@ -32,6 +32,9 @@ rtmp://89.248.162.148/live playpath=ttskys4 swfUrl=http://www.yocast.tv/myplayer
 #EXTINF:-1 tvg-id="id96" tvg-name="Channel_96" tvg-logo="96" group-title="Group 1",Sky Sports 5
 rtmp://89.248.174.121/live playpath=ttskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ttskys5&vw=620&vh=490
 
+#EXTINF:-1 tvg-id="id97" tvg-name="Channel_97" tvg-logo="97" group-title="Group 1",Sky Sports F1
+rtmp://93.174.93.135/live playpath=phuddhussf1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=phuddhussf1&vw=620&vh=490
+
 #EXTINF:-1 tvg-id="id99" tvg-name="Channel_99" tvg-logo="99" group-title="Group 1",WWE Network
 rtmp://94.102.49.194/live playpath=ehmehmww swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ehmehmww&vw=620&vh=490
 
