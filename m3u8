@@ -17,8 +17,8 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/1/playlist.
 #EXTINF:-1 tvg-id="id76" tvg-name="Channel_76" tvg-logo="76" group-title="Group 1",Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_all.smil/chunklist_b475136.m3u8
 
-#EXTINF:-1 tvg-id="id99" tvg-name="Channel_99" tvg-logo="99" group-title="Group 1",WWE Network
-rtmp://80.82.78.24/live playpath=khanwwe swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=khanwwe&vw=700&vh=480
+#EXTINF:-1 tvg-id="id99" tvg-name="Channel_99" tvg-logo="99" group-title="Group 1",Sky Sports 3
+rtmp://80.82.78.21/live playpath=mss3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php
 
 
 
