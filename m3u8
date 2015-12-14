@@ -10,6 +10,9 @@ http://edge1.everyon.tv/etv1sb/pld16/chunklist_w2021649583.m3u8
 #EXTINF:-1 tvg-id="id4" tvg-name="Channel_4" tvg-logo="4" group-title="Group 1",RT News
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_320p_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-id="id22" tvg-name="Channel_22" tvg-logo="22" group-title="Group 1",cartoon test
+rtmp://b.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/politics/
+
 #EXTINF:-1 tvg-id="id71" tvg-name="Channel_71" tvg-logo="71" group-title="Group 1",HBO
 rtmp://www1.iguide.to:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
 
