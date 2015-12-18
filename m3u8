@@ -14,6 +14,9 @@ http://rt-lh.akamaihd.net/i/ch_01@325605/index_320p_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="id5" tvg-name="Channel_5" tvg-logo="5" group-title="Group 1",HLN
 rtmp://a.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/twoons/
 
+#EXTINF:-1 tvg-id="id61" tvg-name="Channel_61" tvg-logo="61" group-title="Group 1",Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_50.sdp/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="id75" tvg-name="Channel_75" tvg-logo="75" group-title="Group 1",TruTV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/1/playlist.m3u8
 
