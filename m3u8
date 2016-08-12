@@ -18,6 +18,7 @@ rtmp://a.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://newschat.tv/player
 http://167.114.102.27/live/3Y6FrP2zFWloFvRtSVERDA/1471033651/720933e62452d65671c676a065c18192.m3u8
 
 #EXTINF:-1 tvg-id="id72" tvg-name="Channel_72" tvg-logo="72" group-title="Group 1",Nick
+http://167.114.102.27/live/CHIP_g0Qrom7P0lMBwsFew/1471033535/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
 
 #EXTINF:-1 tvg-id="id75" tvg-name="Channel_75" tvg-logo="75" group-title="Group 1",TruTV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/1/playlist.m3u8
