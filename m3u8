@@ -23,9 +23,8 @@ http://167.114.102.27/live/CHIP_g0Qrom7P0lMBwsFew/1471033535/a55d7c24a00915235cd
 #EXTINF:-1 tvg-id="id75" tvg-name="Channel_75" tvg-logo="75" group-title="Group 1",TBS
 http://167.114.102.27/live/117B9uqE2Bq9yW4A45cb2w/1471033501/d377ff63e9e229343418ba065acb643f.m3u8
 
-#EXTINF:-1 tvg-id="id76" tvg-name="Channel_76" tvg-logo="76" group-title="Group 1",Weather Channel
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_all.smil/chunklist_b475136.m3u8
-
+#EXTINF:-1 tvg-id="id76" tvg-name="Channel_76" tvg-logo="76" group-title="Group 1",AMC
+http://167.114.102.27/live/JqJCdXxeX2ZrdE7eOtcFzA/1471033376/b06316b29b6c788ecf95287567cb2a3a.m3u8
 #EXTINF:-1 tvg-id="id91" tvg-name="Channel_91" tvg-logo="91" group-title="Group 1",Bt Sports 2
 rtmp://94.102.49.193/live playpath=ttbt2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ttbt2&vw=620&vh=490
 
