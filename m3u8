@@ -12,7 +12,9 @@ http://149.255.152.110/cnn/index.m3u8
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index400.m3u8
 
 #EXTINF:-1 tvg-id="id5" tvg-name="Channel_5" tvg-logo="5" group-title="Group 1",HLN
-rtmp://a.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/twoons/
+
+#EXTINF:-1 tvg-id="id60" tvg-name="Channel_60" tvg-logo="60" group-title="Group 1",Disney Channel
+http://167.114.102.27/live/7RuCIc31tPpCeOv0l5gxZQ/1471033654/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8
 
 #EXTINF:-1 tvg-id="id61" tvg-name="Channel_61" tvg-logo="61" group-title="Group 1",Cartoon Network
 http://167.114.102.27/live/3Y6FrP2zFWloFvRtSVERDA/1471033651/720933e62452d65671c676a065c18192.m3u8
