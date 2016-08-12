@@ -3,7 +3,7 @@
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/300.m3u8
 
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",BBC World News
-rtmp://c.cdn.newschat.tv/edge playpath=bbcwn_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/world/
+http://167.114.102.27/live/4W5aYwNADrPsvJj-6nE67w/1451941952/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
 
 #EXTINF:-1 tvg-id="id3" tvg-name="Channel_3" tvg-logo="3" group-title="Group 1",CNN
 http://edge1.everyon.tv/etv1sb/pld16/chunklist_w2021649583.m3u8
