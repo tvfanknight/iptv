@@ -23,8 +23,15 @@ http://167.114.102.27/live/CHIP_g0Qrom7P0lMBwsFew/1471033535/a55d7c24a00915235cd
 #EXTINF:-1 tvg-id="id75" tvg-name="Channel_75" tvg-logo="75" group-title="Group 1",TBS
 http://167.114.102.27/live/117B9uqE2Bq9yW4A45cb2w/1471033501/d377ff63e9e229343418ba065acb643f.m3u8
 
-#EXTINF:-1 tvg-id="id76" tvg-name="Channel_76" tvg-logo="76" group-title="Group 1",AMC
+#EXTINF:-1 tvg-id="id76" tvg-name="Channel_76" tvg-logo="76" group-title="Group 1",A&E
+http://167.114.102.27/live/YQq0qggt7dtCM5bgxXNHXg/1471033372/ce425ca32dea0f37b22717ae989bcffb.m3u8
+
+#EXTINF:-1 tvg-id="id77" tvg-name="Channel_77" tvg-logo="77" group-title="Group 1",AMC
 http://167.114.102.27/live/JqJCdXxeX2ZrdE7eOtcFzA/1471033376/b06316b29b6c788ecf95287567cb2a3a.m3u8
+
+#EXTINF:-1 tvg-id="id78" tvg-name="Channel_78" tvg-logo="78" group-title="Group 1",Comedy Central
+http://167.114.102.27/live/7RuCIc31tPpCeOv0l5gxZQ/1471033654/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8
+
 #EXTINF:-1 tvg-id="id91" tvg-name="Channel_91" tvg-logo="91" group-title="Group 1",Bt Sports 2
 rtmp://94.102.49.193/live playpath=ttbt2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ttbt2&vw=620&vh=490
 
