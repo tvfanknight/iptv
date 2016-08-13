@@ -13,8 +13,8 @@ http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index400.m3u8
 
 #EXTINF:-1 tvg-id="id5" tvg-name="Channel_5" tvg-logo="5" group-title="Group 1",HLN
 
-#EXTINF:-1 tvg-id="id60" tvg-name="Channel_60" tvg-logo="60" group-title="Group 1",Disney Channel
-http://167.114.102.27/live/7RuCIc31tPpCeOv0l5gxZQ/1471033654/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8
+#EXTINF:-1 tvg-id="id60" tvg-name="Channel_60" tvg-logo="60" group-title="Group 1",Toonami 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD327L240P/chunklist_b500000.m3u8
 
 #EXTINF:-1 tvg-id="id61" tvg-name="Channel_61" tvg-logo="61" group-title="Group 1",Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b500000.m3u8
