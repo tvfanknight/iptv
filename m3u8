@@ -5,63 +5,8 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="2" group-title="Group 1",BBC World News
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD64L240P/chunklist_b500000.m3u8
 
-#EXTINF:-1 tvg-id="id3" tvg-name="Channel_3" tvg-logo="3" group-title="Group 1",CNN
-http://149.255.152.110/cnn/index.m3u8
-
-#EXTINF:-1 tvg-id="id4" tvg-name="Channel_4" tvg-logo="4" group-title="Group 1",RT News
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index400.m3u8
-
-#EXTINF:-1 tvg-id="id5" tvg-name="Channel_5" tvg-logo="5" group-title="Group 1",France 24
-http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_500.m3u8
-
-#EXTINF:-1 tvg-id="id6" tvg-name="Channel_6" tvg-logo="6" group-title="Group 1",HLN
-
-
-#EXTINF:-1 tvg-id="id60" tvg-name="Channel_60" tvg-logo="60" group-title="Group 1",Toonami 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD327L240P/chunklist_b500000.m3u8
-
-#EXTINF:-1 tvg-id="id61" tvg-name="Channel_61" tvg-logo="61" group-title="Group 1",Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b500000.m3u8
-
-#EXTINF:-1 tvg-id="id72" tvg-name="Channel_72" tvg-logo="72" group-title="Group 1",Nick
-http://167.114.102.27/live/nXmAtXqCFKo_D085k0CKLQ/1471048094/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
-
-#EXTINF:-1 tvg-id="id75" tvg-name="Channel_75" tvg-logo="75" group-title="Group 1",TBS
-http://167.114.102.27/live/117B9uqE2Bq9yW4A45cb2w/1471033501/d377ff63e9e229343418ba065acb643f.m3u8
-
-#EXTINF:-1 tvg-id="id76" tvg-name="Channel_76" tvg-logo="76" group-title="Group 1",A&E
-http://167.114.102.27/live/YQq0qggt7dtCM5bgxXNHXg/1471033372/ce425ca32dea0f37b22717ae989bcffb.m3u8
-
-#EXTINF:-1 tvg-id="id77" tvg-name="Channel_77" tvg-logo="77" group-title="Group 1",AMC
-http://167.114.102.27/live/JqJCdXxeX2ZrdE7eOtcFzA/1471033376/b06316b29b6c788ecf95287567cb2a3a.m3u8
-
-#EXTINF:-1 tvg-id="id78" tvg-name="Channel_78" tvg-logo="78" group-title="Group 1",Comedy Central
-http://167.114.102.27/live/7RuCIc31tPpCeOv0l5gxZQ/1471033654/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8
-
-#EXTINF:-1 tvg-id="id91" tvg-name="Channel_91" tvg-logo="91" group-title="Group 1",Bt Sports 2
-rtmp://94.102.49.193/live playpath=ttbt2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ttbt2&vw=620&vh=490
-
-#EXTINF:-1 tvg-id="id92" tvg-name="Channel_92" tvg-logo="92" group-title="Group 1",Sky Sports 1
-rtmp://89.248.172.239/live playpath=ttskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php 
-
-#EXTINF:-1 tvg-id="id93" tvg-name="Channel_93" tvg-logo="93" group-title="Group 1",Sky Sports 2
-rtmp://80.82.64.46/live playpath=ttskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php 
-
-#EXTINF:-1 tvg-id="id94" tvg-name="Channel_94" tvg-logo="94" group-title="Group 1",Sky Sports 3
-rtmp://80.82.78.29/live playpath=ttskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php
-
-#EXTINF:-1 tvg-id="id95" tvg-name="Channel_95" tvg-logo="95" group-title="Group 1",Sky Sports 4
-rtmp://89.248.162.148/live playpath=ttskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedhd.php
-
-#EXTINF:-1 tvg-id="id96" tvg-name="Channel_96" tvg-logo="96" group-title="Group 1",Sky Sports 5
-
-rtmp://89.248.174.121/live playpath=ttskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ttskys5&vw=620&vh=490
-
-#EXTINF:-1 tvg-id="id97" tvg-name="Channel_97" tvg-logo="97" group-title="Group 1",Sky Sports F1
-rtmp://93.174.93.135/live playpath=phuddhussf1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=phuddhussf1&vw=620&vh=490
-
-#EXTINF:-1 tvg-id="id99" tvg-name="Channel_99" tvg-logo="99" group-title="Group 1",WWE Network
-rtmp://94.102.49.194/live playpath=ehmehmww swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ehmehmww&vw=620&vh=490
+#EXTINF:-1 tvg-id="id3" tvg-name="Channel_3" tvg-logo="3" group-title="Group 1",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
 
 
