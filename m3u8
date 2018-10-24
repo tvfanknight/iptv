@@ -5,8 +5,10 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/200px-BBC_World_News_red.svg.png",BBC World News
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD64L240P/chunklist_b500000.m3u8
 
-#EXTINF:-1 tvg-id="id3" tvg-name="Channel_3" tvg-logo="3" group-title="Group 1",Bloomberg Asia
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="id3" tvg-name="Channel_3" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/5/5d/New_Bloomberg_Logo.svg",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-440-1_live.m3u8
+
+
 
 
 
