@@ -1,4 +1,5 @@
-#EXTM3U tvg-shift=1
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/mritems/assets/images/aj-logo-lg-124.png",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 
